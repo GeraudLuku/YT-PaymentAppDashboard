@@ -1,7 +1,7 @@
 # YT-PaymentAppDashboard
 This is an IOS Mobile Payment statistics screen developed using SwiftUI. Watch the tutorial video on my channel
 
-[Capture.png](https://cdn.dribbble.com/users/1998175/screenshots/16514111/media/bcebc1fbdab8fcbfdcbda0f18b00c5c7.jpg)
+![Capture.png](https://cdn.dribbble.com/users/1998175/screenshots/16514111/media/bcebc1fbdab8fcbfdcbda0f18b00c5c7.jpg)
 
 ##Watch on YouTube: https://www.youtube.com/channel/UCLsyzK6h0_2XK-4mYM5sseg
 ##Find the design on Dribble Here: https://dribbble.com/shots/16514111-Payment-mobile-app-design
