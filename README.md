@@ -8,5 +8,5 @@ This is an IOS Mobile Payment statistics screen developed using SwiftUI. Watch t
 ## Support Taras Muguko (Creator Here): https://dribbble.com/ui_migulko
 
 
-#Don't Forget To Leave A Sub On My Channel!!
+# Don't Forget To Leave A Sub On My Channel!!
 
